@@ -1,0 +1,14 @@
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\tong.exe.config
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\tong.exe
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\tong.dll
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\IronPython.dll
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\IronPython.Modules.dll
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\Microsoft.Scripting.dll
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\IronPython.xml
+C:\Users\smith.t7\Desktop\programing\tong\bin\Debug\IronPython.Modules.xml
+C:\Users\smith.t7\Desktop\programing\tong\obj\x86\Debug\tong.pyprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing\tong\obj\x86\Debug\tong.exe
+C:\Users\smith.t7\Desktop\programing\tong\obj\x86\Debug\tong.MainForm.resources
+C:\Users\smith.t7\Desktop\programing\tong\obj\x86\Debug\tong.pyproj.GenerateResource.Cache

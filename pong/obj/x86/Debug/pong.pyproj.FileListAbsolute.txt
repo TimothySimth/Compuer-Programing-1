@@ -1,0 +1,14 @@
+C:\Users\smith.t7\Desktop\programing\pong\obj\x86\Debug\pong.pyprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\pong.exe.config
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\pong.exe
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\pong.dll
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\IronPython.dll
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\IronPython.Modules.dll
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\Microsoft.Scripting.dll
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\IronPython.xml
+C:\Users\smith.t7\Desktop\programing\pong\bin\Debug\IronPython.Modules.xml
+C:\Users\smith.t7\Desktop\programing\pong\obj\x86\Debug\pong.exe
+C:\Users\smith.t7\Desktop\programing\pong\obj\x86\Debug\pong.MainForm.resources
+C:\Users\smith.t7\Desktop\programing\pong\obj\x86\Debug\pong.pyproj.GenerateResource.Cache

@@ -1,0 +1,12 @@
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\prog93a.exe.config
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\prog93a.exe
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\prog93a.dll
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\IronPython.dll
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\IronPython.Modules.dll
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\Microsoft.Scripting.dll
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\IronPython.xml
+C:\Users\smith.t7\Desktop\programing\prog93a\bin\Debug\IronPython.Modules.xml
+C:\Users\smith.t7\Desktop\programing\prog93a\obj\x86\Debug\prog93a.pyprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing\prog93a\obj\x86\Debug\prog93a.exe

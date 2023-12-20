@@ -1,0 +1,12 @@
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\porg122i.exe.config
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\porg122i.exe
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\porg122i.dll
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\IronPython.dll
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\IronPython.Modules.dll
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\Microsoft.Scripting.dll
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\IronPython.xml
+C:\Users\smith.t7\Desktop\programing\porg122i\bin\Debug\IronPython.Modules.xml
+C:\Users\smith.t7\Desktop\programing\porg122i\obj\x86\Debug\porg122i.pyprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing\porg122i\obj\x86\Debug\porg122i.exe

@@ -1,0 +1,14 @@
+C:\Users\smith.t7\Desktop\programing\slotmaging\obj\x86\Debug\slotmaging.pyprojResolveAssemblyReference.cache
+C:\Users\smith.t7\Desktop\programing\slotmaging\obj\x86\Debug\slotmaging.MainForm.resources
+C:\Users\smith.t7\Desktop\programing\slotmaging\obj\x86\Debug\slotmaging.pyproj.GenerateResource.Cache
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\slotmaging.exe.config
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\slotmaging.exe
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\slotmaging.dll
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\IronPython.dll
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\IronPython.Modules.dll
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\Microsoft.Scripting.dll
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\IronPython.xml
+C:\Users\smith.t7\Desktop\programing\slotmaging\bin\Debug\IronPython.Modules.xml
+C:\Users\smith.t7\Desktop\programing\slotmaging\obj\x86\Debug\slotmaging.exe
